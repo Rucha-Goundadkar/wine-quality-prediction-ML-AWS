@@ -72,3 +72,9 @@ spark-submit training.py
 •	Test the accuracy of the dataset on EC2 using below command:
 
   spark-submit test.py
+  
+ Execution of project using Docker :
+ 
+ Docker Implementation: - pull the image from my docker repo using this command: docker pull ruchagoundadkarchavan/wine_quality_prediction
+
+Run the docker image. 
